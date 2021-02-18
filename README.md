@@ -17,4 +17,4 @@ ABUSEIPDB_APIKEY = ""
 
 ## Nbviewer
 ### IPrecon Report
-* [IPrecon Report](https://nbviewer.jupyter.org/github/netscylla/Jupyter_IPrecon/blob/master/IPrecon.ipynb)
+* [IPrecon Report](https://nbviewer.jupyter.org/github/netscylla/Jupyter_IPrecon/blob/main/IPrecon.ipynb)
